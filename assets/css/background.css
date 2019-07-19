@@ -1,0 +1,6 @@
+body{
+			background-image: url('http://localhost:82/Project/assets/mainpage_background.jpg');
+			background-size: cover;
+			background-position: fixed;
+			background-repeat: no-repeat;
+		}
